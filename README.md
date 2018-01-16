@@ -12,7 +12,7 @@ The system of Linear Equations:(iterative method having limited capabilities)
 1 . LU Decomposition Method( Cholesky's Decomposition
 2 . Gauss-Seidel Method
 3 . Gauss Jordon Method
-Numerical Solution of Ordinary Di�erential Equations:(tangent dependent formula)
+Numerical Solution of Ordinary Differential Equations:(tangent dependent formula)
 1 . Euler's Method
-2 . Modi�ed Euler's Method
+2 . Modified Euler's Method
 3 . Runga-Kutta Method( of 4th Code)
