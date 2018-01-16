@@ -11,7 +11,7 @@ Numerical Integration: (newton forword interpretation appication interval divisi
 The system of Linear Equations:(iterative method having limited capabilities)
 1 . LU Decomposition Method( Cholesky's Decomposition
 2 . Gauss-Seidel Method
-3 . Gauss Jordon Method
+3 . Jacobi's Method
 Numerical Solution of Ordinary Differential Equations:(tangent dependent formula)
 1 . Euler's Method
 2 . Modified Euler's Method
